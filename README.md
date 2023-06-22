@@ -20,21 +20,21 @@ https://spring.io/projects/spring-security#samples
     <tr>
     <td> chater_2 </td>
     <td> 세션 타입아웃 </td>
-    <td> [강의 영상](https://www.youtube.com/watch?v=vdUPSycxk5M) </td>
+    <td> <a href="https://www.youtube.com/watch?v=vdUPSycxk5M">[강의 영상]</a> </td>
   </tr>
     <tr>
     <td> chater_3 </td>
     <td> fastapi 애플리케이션에서 로그인 시도 </td>
-    <td> [강의 영상](https://www.youtube.com/watch?v=yRjSFZgfYw0) </td>
+    <td> <a href="https://www.youtube.com/watch?v=yRjSFZgfYw0">[강의 영상]</a> </td>
   </tr>
     <tr>
     <td> chater_4 </td>
     <td> 인메모리 사용자 </td>
-    <td> [강의 영상](https://www.youtube.com/watch?v=zbuWEH_9aCY) </td>
+    <td> <a href="https://www.youtube.com/watch?v=zbuWEH_9aCY">[강의 영상]</a> </td>
   </tr>
       <tr>
     <td> chater_5 </td>
     <td> 스프링 시큐리티 설정 </td>
-    <td> [강의 영상](https://www.youtube.com/watch?v=7rPWHmxC-8M) </td>
+    <td> <a href="https://www.youtube.com/watch?v=7rPWHmxC-8M">[강의 영상]</a> </td>
   </tr>
 </table>
