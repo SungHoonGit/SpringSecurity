@@ -15,7 +15,7 @@ https://spring.io/projects/spring-security#samples
     <tr>
     <td> chater_1	 </td>
     <td> 스프링시큐리티와 JSESSION 이해	링크 </td>
-    <td> [강의 영상](https://www.youtube.com/watch?v=ewslpCROKXY) </td>
+    <td> <a href="https://www.youtube.com/watch?v=ewslpCROKXY">[강의 영상]<a> </td>
   </tr>
     <tr>
     <td> chater_2 </td>
